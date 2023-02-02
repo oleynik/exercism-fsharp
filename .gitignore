@@ -1,5 +1,8 @@
 .idea
 .exercism
-.obj
 .config
+.DS_Store
+
 bin
+obj
+Folder.DotSettings.user
